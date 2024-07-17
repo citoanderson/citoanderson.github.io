@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["modify-commerce-links"],{LF0y:function(n,o,r){var e=r("UzdM");n.exports=function(n){var o=e(n),r=o%1;return o==o?r?o-r:o:0}},UzdM:function(n,o,r){var e=r("j6ZD"),c=1/0,i=17976931348623157e292;n.exports=function(n){return n?(n=e(n))===c||n===-c?(n<0?-1:1)*i:n==n?n:0:0===n?n:0}}}]);

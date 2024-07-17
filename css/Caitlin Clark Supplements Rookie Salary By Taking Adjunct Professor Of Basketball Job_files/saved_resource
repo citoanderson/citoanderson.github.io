@@ -1,0 +1,43 @@
+
+var ftGUID_7902689="56584ED0017303";
+var ftConfID_7902689="0";
+var ftParams_7902689="ft_custom=1-4Gr4W9A_uY6gT-gKICrYO9G_2DvwGy1L5VrdG-B62N7lesdlBfUA==&ftOBA=1&ft_domain=www.theonion.com&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.theonion.com%2F&gdpr=0&ftClick=https://exch.quantserve.com/r?&a=p-1RYxePXT9bCS2&labels=_qc.clk,_click.adserver.rtb,_click.rand.2011264998&rtbip=192.184.70.67&rtbdata2=EAw6GGh0dHBzOi8vd3d3LnRoZW9uaW9uLmNvbVooeDIwWVFwQnBIRUhjUEVzVXdqc0RSOGRxVFVmY2F4bEp4R3FMcnBQSoABrbu32QO6ARhZVWpPTGFDZjYxZ0tKSUxBTVRoQndnQUHAAZDp7gLIAZDlur2LMtoBJGJhMDAwMjVkLWUyYTUtNDI2Mi1iNjA3LWExYzJkMTEyOGFhM7ACCMgCANACzuGG-_if98ypAegCowTyAg4IowQQ3aDy8NCA67_JAfICDwjj7SEQ4s7al7i8p6isAfgCAIoDBjE4Mzk1N5gDAKgDALIDBJ3JYGS6AxIJlE5YvtKuUWAR6MYw3cLJtLzCAxIJ6kJGScFgm5gRH910E0XDBYnIA9SPgBDYA-bvhb8H4gMPcC0xUll4ZVBYVDliQ1My6gMGCKwCENgE8gMFODM0NjD4AwCABLACigQCNzeSBBFJWElWUFFDQVNUUE9MSURJU5oEEgkUTBcTVOns_RHoB4UC0MIKlqIEEgmUTli-0q5RYBHoxjDdwsm0vKoEEgmUTli-0q5RYBHoxjDdwsm0vLgEuAjQBAzyBAJVU4AFAYoFKjIwMmYwYTk0MWFmZmVlNThiZjIxY2E4M2EwZTcyNTk1YTliODMxN2QwZpAFAZoFFSAvCpQa_-5YvyHKg6DnJZWpuDF9D6IFJG5nSWQ0WVl3SjlhOE9tbkd6QTQweEtNRUNkbWVDT0YzcHJNPbgFAMAF5u-FvwfIBZzWqATSBQYIAxABGBPoBQaaBhQKEgkUTBcTVOns_RHoB4UC0MIKlqAGAKgG-LfIwAG1Bn6VDzq6BkUKAlVTEgJJRBj2BSIHcmV4YnVyZyoFODM0NjA6KGJyaWdoYW0lMjB5b3VuZyUyMHVuaXZlcnNpdHklMjAtJTIwaWRhaG_CBjFYWTYxNDBscFFicXZEV3h4bVYtWXRMZURvVHNQTkZRYnpYQlJVOGhlX3JBS0xmMFV3yQZMkECQSsnnBNAGONgGOOIGP19mcC5ldmVudC5DQyBQYWlkIENvbnZlcnNpb24sX2ZwLmV2ZW50LkNDIFRyaWFsIENvbnZlcnNpb24sX29yX-oGEWh0dHBzOi8vYWRvYmUuY29t8QYBKECQSsnnBA&redirecturl3=&site_url=theonion.com&cachebuster=315165.04683426104";
+var ftKeyword_7902689="";
+var ftCustom_7902689="1-4Gr4W9A_uY6gT-gKICrYO9G_2DvwGy1L5VrdG-B62N7lesdlBfUA==";
+var ftSection_7902689="";
+var ftSegment_7902689="aktn,ak2r,alny,w1j,amds,ajh5,amjp,aijh,amuj";
+var ftSegmentList_7902689=[{s:'aktn'},{s:'ak2r'},{s:'alny'},{s:'w1j'},{s:'amds'},{s:'ajh5'},{s:'amjp'},{s:'aijh'},{s:'amuj'}];
+var ftRuleMatch_7902689="0";
+var ftTimestamp_7902689="1721068716";
+var ftGeoC2_7902689="us";
+var ftGeoState_7902689="id";
+var ftGeoCity_7902689="rexburg";
+var ftISP_7902689="brigham young university - idaho";
+var ftSpeed_7902689="broadband";
+var ftConnType_7902689="wired";
+var ftDMA_7902689="758";
+var ftLong_7902689="-111.78";
+var ftLat_7902689="43.82";
+var ftPostal_7902689="83460";
+var ftTimeZone_7902689="-600";
+var ftMobileCarrier_7902689="";
+var ftImp7902689 = {};
+ftImp7902689.privacy = "x";
+ftImp7902689.guidAge = "382";
+ftImp7902689.impID = "F629B241-5B57-AC5C-41D9-87D970D008BB";
+ftImp7902689.duid = "FT:56584ED0017303";
+
+ftImp7902689.ft_tpplid = "";
+ftImp7902689.ft_c = {};
+ftImp7902689.gdpr = "0";
+ftImp7902689.gdpr_consent = "";
+ftImp7902689.gdpr_pd = "";
+ftImp7902689.oob_consent = "";
+ftImp7902689.gdprStoredConsent = "";
+ftImp7902689.us_privacy = "";
+ftImp7902689.gpc = "0";
+
+ftImp7902689.jsAppend = "1";
+var ftCreativeId_7902689 = "4778764";
+(function(){var tag=document.getElementById("ft_servedby_7902689")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7902689";js.setAttribute("name","ftscript_m7902689");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7902689");
+

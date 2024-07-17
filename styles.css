@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body {
+    background-color: #FFF1E7;
+}
+body div {
+	margin-left: 15%;
+	width: 70%;
+}
